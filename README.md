@@ -1,17 +1,17 @@
-### Hi there 👋
+## Hi there 👋
 
+Mi nombre es Alejo, Soy de Argentina, Actualmente estoy estudiando la carrera Tecnicatura Superior En Sistemas de Información, en La Universidad Tencológica Nacional.
 
-**Alejochavarri/Alejochavarri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Mis Proyectos: https://github.com/Alejochavarri
 
-Here are some ideas to get you started:
+## Habilidades: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+* Turbo Pascal, C#, C++, JavaScript.
+
+* HTML5, CSS, Bootstrap
+
+* SQL Server, .NET Framework
+
+* Git.
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejochavarri&layout=compact&theme=radical)](https://github.com/Alejochavarri)
